@@ -12,6 +12,7 @@ const quotes = [
   {quote: '"He suffers more than necessary, who suffers before it is necessary."', source: 'Epictetus'},
   {quote: '"Begin at once to live, and count each seperate day as a separate life."', source: 'Epictetus'},
   {quote: '"If you want to be a writer, WRITE!"', source: 'Seneca'},
+  {quote: '"Stamp out the ambers, before they become a blaze"', source: 'anonymous'},
   {quote: '"Only put off until tomorrow, what you are willing to die having left undone"', source:  'Pablo Picasso', year: '1963'},
   {quote: '"We have two lives, and the second one begins when we realize we only have one"', source: 'Confucius'},
   {quote: '"Think of yourself as dead. You have lived your life. Now, take what\'s left and live it properly"', source: 'Marcus Aurelius'},
