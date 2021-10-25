@@ -3,10 +3,6 @@ Treehouse FSJS Techdegree:
 project 1 - A Random Quote Generator
 ******************************************/
 
-// For assistance: 
-  // Check the "Project Resources" section of the project instructions
-  // Reach out in your Slack community - https://treehouse-fsjs-102.slack.com/app_redirect?channel=chit-chat
-
 /*** 
  * `quotes` array 
 ***/
@@ -52,7 +48,7 @@ const getRandomQuote = (arr) => {
 ***/
 
 /**
- * function that calls the geRandomQuote fucntion to get a random quote then displays the random quote to the web page using <p> and <span> tags. 
+ * function that calls the getRandomQuote fucntion to get a random quote then displays the random quote to the web page using <p> and <span> tags. 
  * 
  */
 
